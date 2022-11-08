@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_gomovie/static/css/main.259a0982.css",
-    "main.js": "/react_gomovie/static/js/main.d166983b.js",
-    "static/js/787.ca43ffd7.chunk.js": "/react_gomovie/static/js/787.ca43ffd7.chunk.js",
-    "index.html": "/react_gomovie/index.html",
-    "main.259a0982.css.map": "/react_gomovie/static/css/main.259a0982.css.map",
-    "main.d166983b.js.map": "/react_gomovie/static/js/main.d166983b.js.map",
-    "787.ca43ffd7.chunk.js.map": "/react_gomovie/static/js/787.ca43ffd7.chunk.js.map"
+    "main.css": "/react_goMovie/static/css/main.259a0982.css",
+    "main.js": "/react_goMovie/static/js/main.5b6dfa83.js",
+    "static/js/787.ca43ffd7.chunk.js": "/react_goMovie/static/js/787.ca43ffd7.chunk.js",
+    "index.html": "/react_goMovie/index.html",
+    "main.259a0982.css.map": "/react_goMovie/static/css/main.259a0982.css.map",
+    "main.5b6dfa83.js.map": "/react_goMovie/static/js/main.5b6dfa83.js.map",
+    "787.ca43ffd7.chunk.js.map": "/react_goMovie/static/js/787.ca43ffd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.259a0982.css",
-    "static/js/main.d166983b.js"
+    "static/js/main.5b6dfa83.js"
   ]
 }
